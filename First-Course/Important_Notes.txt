@@ -1,0 +1,16 @@
+Create project:
+npm create vite@latest
+
+Then enter: y
+
+Project name: "Put the name"
+
+Select Framework: React
+
+Select a variant: JavaScript
+
+Change directory: cd vite-project/
+
+Install module: npm install vite
+
+Run the main code: npm run dev
